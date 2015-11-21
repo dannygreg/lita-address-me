@@ -5,7 +5,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["danny@dannygreg.com"]
   spec.description   = "Return an address for your chosen place of work."
   spec.summary       = "Return an address for your chosen place of work."
-  spec.homepage      = "There isn't one"
+  spec.homepage      = "http://www.github.com/dannygreg/lita-address-me"
   spec.license       = "MIT"
   spec.metadata      = { "lita_plugin_type" => "handler" }
 
